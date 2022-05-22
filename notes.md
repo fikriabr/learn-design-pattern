@@ -2,9 +2,17 @@
 
 - Solid Principle
     - Single Responsibilty Principle 
-    (separation of concern) : Satu class memiliki fungsi spesifik, ketika terdapat dua fungsi yang berbeda, maka harus dibuat terpisah 
+
+        (_Separation of concern_): Satu _class_ biasanya memiliki fungsi spesifik, ketika terdapat dua fungsi dengan tujuan yang jauh berbeda, maka harus dibuat _class_ terpisah.
+
     - Open Closed Priciple
+        
+        Boleh (_open_) untuk melakukan extension, tapi tidak (_closed_) untuk melakukan modifikasi (_modification_) terhadap class yang sudah ada.
+
     - Liskov Subtition Principle
+
+        Suatu _class_ utama harus dapat diimplementasikan pada semua _class_ turunan. Ketika _class_ utama tidak dapat diimplentasikan pada kelas turunan, maka harus implementasi dari kelas utama menyalahi aturan Liskov Subtitution Principle. 
+
     - Interface Segragation Principle
     - Dependency Inversion Principle
 - Creational

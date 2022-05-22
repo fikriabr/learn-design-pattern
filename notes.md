@@ -2,7 +2,7 @@
 
 - Solid Principle
     - Single Responsibilty Principle 
-        (separation of concern) : Satu class memiliki fungsi spesifik, ketika terdapat dua fungsi yang berbeda, maka harus dibuat terpisah 
+    (separation of concern) : Satu class memiliki fungsi spesifik, ketika terdapat dua fungsi yang berbeda, maka harus dibuat terpisah 
     - Open Closed Priciple
     - Liskov Subtition Principle
     - Interface Segragation Principle

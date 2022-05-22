@@ -1,0 +1,36 @@
+# Design Pattern
+
+- Solid Principle
+    - Single Responsibilty Principle 
+        (separation of concern) : Satu class memiliki fungsi spesifik, ketika terdapat dua fungsi yang berbeda, maka harus dibuat terpisah 
+    - Open Closed Priciple
+    - Liskov Subtition Principle
+    - Interface Segragation Principle
+    - Dependency Inversion Principle
+- Creational
+    - Builder
+    - Factories
+        - Abstract Factory
+        - Factory Method
+    - Prototype
+    - Singleton
+- Structural
+    - Adapter
+    - Bridge
+    - Composite
+    - Decorator
+    - Facade
+    - FlyWeight
+    - Proxy
+- Behavioural
+    - Chain of Responsibilty
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+    - Observer
+    - State
+    - Strategy
+    - Template Method
+    - Visitor

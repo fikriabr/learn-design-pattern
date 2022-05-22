@@ -34,7 +34,7 @@ class FileManager {
 const myTodo = new Todo();
 myTodo.addTodoList('Belajar Design Pattern')
 myTodo.addTodoList('Bangun Pagi')
-myTodo.addTodoList('Olahraga Pagina')
+myTodo.addTodoList('Olahraga Pagi')
 myTodo.removeTodoById(2)
 
 // Buat instance FileManager class

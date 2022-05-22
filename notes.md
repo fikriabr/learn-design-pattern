@@ -7,13 +7,16 @@
 
     - Open Closed Priciple
         
-        Boleh (_open_) untuk melakukan extension, tapi tidak (_closed_) untuk melakukan modifikasi (_modification_) terhadap class yang sudah ada.
+        Boleh (_open_) untuk melakukan extension, tapi tidak (_closed_) untuk melakukan modifikasi (_modification_) terhadap _class_ yang sudah ada.
 
     - Liskov Subtition Principle
 
-        Suatu _class_ utama harus dapat diimplementasikan pada semua _class_ turunan. Ketika _class_ utama tidak dapat diimplentasikan pada kelas turunan, maka harus implementasi dari kelas utama menyalahi aturan Liskov Subtitution Principle. 
+        Suatu _class_ utama harus dapat diimplementasikan pada semua _class_ turunan. Ketika _class_ utama tidak dapat diimplentasikan pada kelas turunan, maka implementasi dari kelas utama menyalahi aturan Liskov Subtitution Principle. 
 
-    - Interface Segragation Principle
+    - Interface Segregation Principle
+
+        Suatu _class_ mestinya tidak dipaksakan untuk menerapkan _interface_ yang tidak digunakan sama sekali oleh _class_ tersebut.
+
     - Dependency Inversion Principle
 - Creational
     - Builder

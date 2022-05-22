@@ -18,6 +18,11 @@
         Suatu _class_ mestinya tidak dipaksakan untuk menerapkan _interface_ yang tidak digunakan sama sekali oleh _class_ tersebut.
 
     - Dependency Inversion Principle
+
+        a. _High-level modules should not depend on low-level modules. Both should depend on abstractions._ 
+
+        b. _Abstractions should not depend on details. Details should depend on abstractions._
+
 - Creational
     - Builder
     - Factories

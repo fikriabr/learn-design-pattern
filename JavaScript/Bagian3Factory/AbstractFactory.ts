@@ -99,7 +99,7 @@ class Application {
 }
 
 class ApplicationConfigurator {
-    private factory: UIFactory = new WindowsAppFactory();
+    private factory: UIFactory = new BaseUIFactory();
     main(config: { OS: string }) {
         switch (config.OS) {
             case 'Windows':

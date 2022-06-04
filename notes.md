@@ -29,6 +29,9 @@
         - Abstract Factory
         - Factory Method
     - Prototype
+
+        Sebuah object yang disalin secara partial atau keseluruhan tanpa menghilangkan fungsinya sebagai bagian dari suatu class atau object tertentu.
+
     - Singleton
 - Structural
     - Adapter

@@ -1,2 +1,2 @@
-# belajar-design-pattern
-Belajar design pattern
+# learn-design-pattern
+Learn design pattern
